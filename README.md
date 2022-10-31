@@ -1,5 +1,6 @@
 ### Hi there 👋
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+
 <!--
 **bongtak/bongtak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
