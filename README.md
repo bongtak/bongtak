@@ -19,7 +19,7 @@
   
 ![Bongtak's gitnub stats](https://github-readme-stats.vercel.app/api?username=bongtak&show_icons=true) 
   
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
 
 
 </div>
