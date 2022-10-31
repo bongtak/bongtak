@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/> 
  
-<br/> 
+<br/> <br/> 
  
 ### 💖 It's Me 💖
  
