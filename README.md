@@ -2,7 +2,7 @@
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20SoeunDeveloper%20%20&height=200&fontSize=70&fontColor=ffffff)
 
-### 💻 Platfroms & Languages 💻
+💻 Platfroms & Languages 💻
  
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> 
@@ -10,8 +10,9 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
  
+##
  
-### 👯‍♂️ Collaboration 👯‍♂️
+👯‍♂️ Collaboration 👯‍♂️
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
@@ -22,13 +23,13 @@
 <img src="https://img.shields.io/badge/Microsoft Outlook-0078D4?style=flat-square&logo=Microsoft Outlook&logoColor=white"/>
   
     
-### 🛠️ Tools 🛠️
+🛠️ Tools 🛠️
  
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
  
  
-### 🎨 Design & Document 🎨
+🎨 Design & Document 🎨
 
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/> 
@@ -37,7 +38,7 @@
 <img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=Google Drive&logoColor=white"/>
  
  
-# 💖 It's Me 💖
+💖 It's Me 💖
  
 <a href="https://www.instagram.com/sosososo._.eun/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
