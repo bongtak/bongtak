@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-
-[![Bongtak's tier](http://mazassumnida.wtf/api/generate_badge?boj=bongtak)](https://solved.ac/bongtak)
-
 ![Bongtak's gitnub stats](https://github-readme-stats.vercel.app/api?username=bongtak&show_icons=true)
 
 
