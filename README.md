@@ -30,14 +30,14 @@
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/> 
  
-<br/> <br/> 
+<br/>
  
 ### 💖 It's Me 💖
  
 <a href="https://www.instagram.com/sosososo._.eun/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   
-<br/> 
+<br/> <br/>  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bongtak)
   
