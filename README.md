@@ -1,6 +1,6 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Hi%20There&fontSize=100&text=%20Soeun%20%20&height=200&fontSize=50&fontColor=ffffff)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Soeun%20%20&height=200&fontSize=90&fontColor=ffffff)
 
 💻 Platfroms & Languages 💻
  
