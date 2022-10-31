@@ -4,7 +4,7 @@
 
 ### 🛠️ Stack 🛠️
  
-<img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=Notepad++ &logoColor=white"/>
+<img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=Notepad++&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> 
