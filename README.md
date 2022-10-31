@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Eungyeol%20%20&height=200&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Soeun%20%20&height=200&fontSize=90&fontColor=ffffff)
 
 ![Bongtak's gitnub stats](https://github-readme-stats.vercel.app/api?username=bongtak&show_icons=true)
 
