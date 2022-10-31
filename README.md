@@ -2,8 +2,6 @@
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20SoeunDeveloper%20%20&height=200&fontSize=70&fontColor=ffffff)
 
-##
- 
 ### 💻 Platfroms & Languages 💻
  
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> 
@@ -48,7 +46,6 @@
 <a href="https://www.instagram.com/sosososo._.eun/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   
-##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bongtak)
   
