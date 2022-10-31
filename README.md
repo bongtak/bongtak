@@ -15,12 +15,9 @@
 <a href="https://www.instagram.com/sosososo._.eun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   
 
-  
-![Bongtak's gitnub stats](https://github-readme-stats.vercel.app/api?username=bongtak&show_icons=true)
-  
-![Bongtak's gitnub stats](https://github-readme-stats.vercel.app/api?username=bongtak&show_icons=true)
-  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bongtak)](https://github.com/깃허브아이디/github-readme-stats)
+  
+![Bongtak's gitnub stats](https://github-readme-stats.vercel.app/api?username=bongtak&show_icons=true) 
   
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
 
