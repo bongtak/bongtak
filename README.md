@@ -1,6 +1,6 @@
 <div align="center">
  
- ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Soeun%20%20&height=200&fontSize=90&fontColor=ffffff)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20Soeun%20%20&height=200&fontSize=90&fontColor=ffffff)
 
 💻 Platfroms & Languages 💻
  
