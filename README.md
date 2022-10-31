@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-// 현재 내가 사용한 코드
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Eungyeol%20%20&height=200&fontSize=90&fontColor=ffffff)
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
-
-
-
 
 ![Bongtak's gitnub stats](https://github-readme-stats.vercel.app/api?username=bongtak&show_icons=true)
 
@@ -14,3 +9,6 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 <a href="https://www.instagram.com/sosososo._.eun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
