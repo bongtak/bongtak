@@ -2,7 +2,7 @@
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20SoeunDeveloper%20%20&height=200&fontSize=70&fontColor=ffffff)
 
-### 💻 Platfroms & Languages 💻
+### 👾 Platfroms & Languages 👾
  
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> 
@@ -38,6 +38,20 @@
 <img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat-square&logo=Microsoft Word&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=flat-square&logo=Microsoft PowerPoint&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=Google Drive&logoColor=white"/>
+ 
+##
+ 
+### 📱 App Launch Store 📱
+
+<img src="https://img.shields.io/badge/App Store-0D96F6?style=flat-square&logo=App Store&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Google Play-414141?style=flat-square&logo=Google Play&logoColor=white"/> 
+ 
+##
+ 
+### 💻 os 💻
+
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/> 
  
 ##
  
