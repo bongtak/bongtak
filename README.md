@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+  
+  ### Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Soeun%20%20&height=200&fontSize=50&fontColor=ffffff)
 
@@ -13,3 +15,6 @@
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
+
+
+</div>
