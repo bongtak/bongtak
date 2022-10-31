@@ -16,28 +16,28 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
  
-##
+<br/> 
  
 ### 📱 App Launch Store 📱
 
 <img src="https://img.shields.io/badge/App Store-0D96F6?style=flat-square&logo=App Store&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Google Play-414141?style=flat-square&logo=Google Play&logoColor=white"/> 
  
-##
+<br/> 
  
 ### 💻 os 💻
 
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/> 
  
-##
+<br/> 
  
 ### 💖 It's Me 💖
  
 <a href="https://www.instagram.com/sosososo._.eun/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   
-##
+<br/> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bongtak)
   
