@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=flat-square&logo=Microsoft Teams&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft Outlook-0078D4?style=flat-square&logo=Microsoft Outlook&logoColor=white"/>
   
     
 🛠️ Tools 🛠️
