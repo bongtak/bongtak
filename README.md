@@ -12,7 +12,7 @@
  
 ##
  
-👯‍♂️ Collaboration 👯‍♂️
+### 👯‍♂️ Collaboration 👯‍♂️
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
@@ -22,14 +22,16 @@
 <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=flat-square&logo=Microsoft Teams&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft Outlook-0078D4?style=flat-square&logo=Microsoft Outlook&logoColor=white"/>
   
+##
     
-🛠️ Tools 🛠️
+### 🛠️ Tools 🛠️
  
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
  
+##
  
-🎨 Design & Document 🎨
+### 🎨 Design & Document 🎨
 
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/> 
@@ -37,12 +39,14 @@
 <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=flat-square&logo=Microsoft PowerPoint&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=Google Drive&logoColor=white"/>
  
+##
  
-💖 It's Me 💖
+### 💖 It's Me 💖
  
 <a href="https://www.instagram.com/sosososo._.eun/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   
+##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bongtak)
   
