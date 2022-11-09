@@ -38,8 +38,6 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   
 <br/> <br/>  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bongtak)
   
 ![Bongtak's gitnub stats](https://github-readme-stats.vercel.app/api?username=bongtak&show_icons=true) 
   
